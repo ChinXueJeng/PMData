@@ -218,7 +218,7 @@ export default function ProfileScreen() {
 
             <Text style={styles.sectionTitle}>1. Acceptance of Terms</Text>
             <Text style={styles.paragraph}>
-              By downloading, accessing, or using the 4Data mobile application,
+              By downloading, accessing, or using the PMData mobile application,
               you agree to be bound by these Terms and Conditions ("Terms"). If
               you do not agree to these Terms, please do not use the App.
             </Text>
@@ -272,7 +272,7 @@ export default function ProfileScreen() {
             <Text style={styles.sectionTitle}>7. Intellectual Property</Text>
             <Text style={styles.paragraph}>
               All content, algorithms, designs, logos, and software in the App
-              are the property of 4Data or its licensors and are protected by
+              are the property of PMData or its licensors and are protected by
               copyright and other intellectual property laws. You may not copy,
               modify, distribute, or reverse-engineer any part of the App
               without explicit written permission.
@@ -280,7 +280,7 @@ export default function ProfileScreen() {
 
             <Text style={styles.sectionTitle}>8. Limitation of Liability</Text>
             <Text style={styles.paragraph}>
-              To the fullest extent permitted by law, 4Data and its affiliates,
+              To the fullest extent permitted by law, PMData and its affiliates,
               directors, employees, and agents shall not be liable for any
               direct, indirect, incidental, special, or consequential damages
               arising from: 1. Your use or inability to use the App. 2. Any
@@ -341,12 +341,12 @@ export default function ProfileScreen() {
             <Ionicons name="arrow-back" size={24} color="#000" />
           </TouchableOpacity>
           <ScrollView style={styles.modalContent}>
-            <Text style={styles.sectionTitle}>Privacy Policy for 4Data</Text>
+            <Text style={styles.sectionTitle}>Privacy Policy for PMData</Text>
             <Text style={styles.paragraph}>Last Updated: 7 January 2026</Text>
             <Text style={styles.paragraph}>
-              This Privacy Policy describes how 4Data ("we," "us," or "our")
+              This Privacy Policy describes how PMData ("we," "us," or "our")
               collects, uses, and protects your information when you use the
-              4Data mobile application (the "App"). By using the App, you
+              PMData mobile application (the "App"). By using the App, you
               consent to the data practices described in this policy.
             </Text>
 
@@ -646,7 +646,7 @@ export default function ProfileScreen() {
             <Text style={styles.paragraph}></Text>
             <Text style={styles.paragraph}>
               Additional Disclaimer: This Privacy Policy applies only to the
-              4Data application. It does not apply to any lottery organizations
+              PMData application. It does not apply to any lottery organizations
               or third-party services you may access through lottery
               participation. We are not responsible for the privacy practices of
               official lottery providers or gambling websites.

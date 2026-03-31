@@ -5,14 +5,14 @@ import { router, Stack } from "expo-router";
 import React, { useEffect, useState } from "react";
 
 import {
-  ActivityIndicator,
-  Alert,
-  Platform,
-  StyleSheet,
-  Text,
-  TextInput,
-  TouchableOpacity,
-  View,
+    ActivityIndicator,
+    Alert,
+    Platform,
+    StyleSheet,
+    Text,
+    TextInput,
+    TouchableOpacity,
+    View,
 } from "react-native";
 
 const getRedirectUrl = () => {
@@ -95,7 +95,7 @@ export default function LoginScreen() {
   return (
     <View style={styles.container}>
       <Stack.Screen options={{ headerShown: false }} />
-      <Text style={styles.title}>Welcome To 4Data</Text>
+      <Text style={styles.title}>Welcome To PMData</Text>
       <Text style={styles.para}>
         Check High probability 4D numbers and detailed information easily!
       </Text>

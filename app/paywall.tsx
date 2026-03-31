@@ -85,7 +85,7 @@ export default function Paywall() {
       />
       <View style={styles.container}>
         <View style={styles.header}>
-          <Text style={styles.title}>4Data Premium</Text>
+          <Text style={styles.title}>PMData Premium</Text>
           <Text style={styles.subtitle}>
             Complete analysis of all numbers and more{'\n'}detailed prediction data. Cancel anytime.
           </Text>

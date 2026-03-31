@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "4Data",
-    "slug": "4data",
+    "name": "PMData",
+    "slug": "PMData",
     "version": "1.1.2",
     "orientation": "portrait",
     "icon": "./assets/images/applogo.png",
@@ -10,7 +10,7 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.4Data.app",
+      "bundleIdentifier": "com.PMData.app",
       "usesAppleSignIn": true,
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
