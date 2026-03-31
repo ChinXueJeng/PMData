@@ -307,6 +307,7 @@ export default function HomeScreen() {
             {/* TOTO LOGO */}
             <TouchableOpacity
               onPress={() => {
+                setSelectedBrand("TOTO");   // ← add this line
                 router.replace("/(tabs)/home");
               }}
             >
